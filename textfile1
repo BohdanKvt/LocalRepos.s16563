@@ -1,2 +1,2 @@
 Integer a = 2;
-Boolean Yes  = nottrue;
+Boolean Yes  = true;
